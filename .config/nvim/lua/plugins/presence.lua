@@ -11,7 +11,7 @@ return {
       enable_line_number = true,
       blacklist = {},
       buttons = { -- Adding a custom button
-        { label = "My site", url = "https://kuuichi.xyz" },
+        { label = "Coming Soon!", url = "https://keiran.cc" },
       },
       file_assets = {},
       show_time = true,

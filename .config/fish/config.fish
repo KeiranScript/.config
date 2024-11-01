@@ -22,3 +22,5 @@ abbr .5 'cd ../../../../..'
 abbr mkdir 'mkdir -p'
 
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias up='paru -Syyu'
+alias prune='paru -Rns $(paru -Qtdq)'
